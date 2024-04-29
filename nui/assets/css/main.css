@@ -23,6 +23,7 @@ body {
     justify-content: space-between;
     align-items: center;
     padding: 25px;
+    transition: .5s; /* Add movement smoother. */
 }
 
 .waypoint > img {
